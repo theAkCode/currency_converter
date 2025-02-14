@@ -1,4 +1,4 @@
-const BASE_URL ="https://latest.currency-api.pages.dev/v1/currencies";
+const BASE_URL ="YOUR_API_KEY";
 
 const dropdowns = document.querySelectorAll(".dropdown select");
 const btn = document.querySelector("form button");
